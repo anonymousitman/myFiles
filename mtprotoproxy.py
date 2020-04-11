@@ -1747,7 +1747,7 @@ async def stats_printer():
             config.USER_MAX_TCP_CONNS = Accounts.get_USER_MAX_TCP_CONNS()
         except:
             pass
-        print(config.USERS)
+       
         await asyncio.sleep(config.STATS_PRINT_PERIOD)
 
         print("Stats for", time.strftime("%d.%m.%Y %H:%M:%S"))
