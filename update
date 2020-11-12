@@ -9,7 +9,7 @@
   "lastVersionName": "8",
   "directUrl": "",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "InactiveVersion": [
     2,
     3,
