@@ -7,18 +7,13 @@
 • بخش تحلیل 
 • بخش مالی 
 • سابر",
-  "lastVersion": 8,
-  "lastVersionName": "8",
+  "lastVersion": 1,
+  "lastVersionName": "1",
   "cafebazaar": "https://cafebazaar.ir/app/ir.FiboApp.Fibo",
   "mykit": "https://mykit.ir/ir.FiboApp.Fibo",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
   "forceUpdate": false,
   "InactiveVersion": [
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
+   0
   ]
 }
