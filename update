@@ -10,6 +10,7 @@
   "lastVersion": 8,
   "lastVersionName": "8",
   "cafebazaar": "https://cafebazaar.ir/app/ir.FiboApp.Fibo",
+  "mykit": "https://mykit.ir/ir.FiboApp.Fibo",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
   "forceUpdate": false,
   "InactiveVersion": [
