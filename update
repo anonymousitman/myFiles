@@ -1,5 +1,5 @@
 {
-  "message": "<p><strong style="color: #ff6600;">امکانات ورژن ۴</strong></p>
+  "message": '<p><strong style="color: #ff6600;">امکانات ورژن ۴</strong></p>
 <ul>
 <li>سیگنال رایگان&nbsp;</li>
 <li>اخبار&nbsp;</li>
@@ -35,7 +35,7 @@
 <li>سیگنال ویژه&nbsp;</li>
 <li>سیگنال رایگان&nbsp;</li>
 <li>اخبارسیستم آپدیت جدید</li>
-</ul>",
+</ul>',
   "lastVersion": 8,
   "lastVersionName": "8",
   "directUrl": "",
