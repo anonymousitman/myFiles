@@ -1,16 +1,14 @@
 {
-  "message": " ورژن ۱ 
-• سیگنال ویژه و رایگان
-• نشان گذاری سیگنال ها  
-• سیستم تیکت و پشتیبانی
-• بخش اخبار 
-• بخش تحلیل 
-• بخش مالی 
-• سابر",
-  "lastVersion": 1,
-  "lastVersionName": "1",
-  "cafebazaar": "https://cafebazaar.ir/app/ir.FiboApp.Fibo",
-  "mykit": "https://mykit.ir/ir.FiboApp.Fibo",
+  "message": " ورژن ۱.۰.۴ 
+• اضافه شدن قسمت تخفیف ها
+• حل مشکل خروج از حساب کاربری 
+• حل مشکل جزیی قسمت ورود
+• حل چند مشکل امنیتی 
+",
+  "lastVersion": 4,
+  "lastVersionName": "1.0.4",
+  "cafebazaar": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
+  "mykit": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=ir.FiboApp.Fibo",
   "forceUpdate": false,
   "InactiveVersion": [
